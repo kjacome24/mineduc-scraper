@@ -20,11 +20,7 @@ Este script permite generar una base de datos completa y actualizada con informa
 
 ## 📦 Estructura del Proyecto
 
-Extractor_data_miniedu/
----------- extractor.py 
----------- run_scraper.py 
----------- requirements.txt 
----------- establecimientos_iquique.csv
+![alt text](image.png)
 
 extractor.py # Contiene la lógica para acceder a las fichas por región y comuna
 run_scraper.py # Script principal que recorre todas las comunas y genera el CSV final
